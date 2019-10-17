@@ -1,5 +1,5 @@
 <?php
 
-	echo "Start!";
+	echo "Start the code!";
 
 ?>
